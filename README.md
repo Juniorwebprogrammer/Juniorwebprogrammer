@@ -1,16 +1,40 @@
-### Hi there 👋
+<div id="header" align="center" &nbsp;>
+  <img decoding="async" src="https://res.cloudinary.com/dgefj8bgv/image/upload/v1715367986/channels4_banner_y6ioan.jpg" width="800" margin="20"/>
+</div>
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
-<!--
-**Juniorwebprogrammer/Juniorwebprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  Hello and welcome! I am Junior García
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
+---
+ <div id="header" align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻: About me :
+
+* :telescope: I am currently working for different clients creating and developing web solutions :muscle:
+
+* :seedling: I am studying :blue_book: and practice :computer: c# and .net ecosystem, and Nestjs 🐱
+
+* :heartbeat: I love developing web solutions and taking on new challenges
+
+* :mailbox: do you want to contact me?   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/junior-garcía)
+
+
+### :hammer_and_wrench: Staff :
+
+Frontend: Nextjs 14 and React (SPA)
+
+Backend: Nodejs with Express (API REST)
+
+Database: MySQL, PostgreSQL, MongoDB
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorwebprogrammer&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorwebprogrammer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
