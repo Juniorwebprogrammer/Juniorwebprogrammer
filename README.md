@@ -21,7 +21,7 @@
 
 * :heartbeat: I love developing web and mobile solutions and taking on new challenges!
 
-* :mailbox: do you want to contact me?   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/junior-garcía)
+* :mailbox: do you want to contact me? www.linkedin.com/in/junior-garcía
 
 
 ### :hammer_and_wrench: Staff :
