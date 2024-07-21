@@ -5,7 +5,7 @@
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
 <h1>
-  Hello and welcome! I am Junior García
+  Hi welcome to my Github! I am Junior García web and mobile developer
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -14,11 +14,11 @@
 
 ### 👨‍💻: About me :
 
-* :telescope: I am currently working for different clients creating and developing web solutions :muscle:
+* :telescope: I am currently working for different clients creating and developing web and mobile solutions :muscle:
 
-* :seedling: I am studying :blue_book: and practice :computer: c# and .net ecosystem, and Nestjs 🐱
+* :seedling: I am studying :blue_book: and practice :computer: c# .net ecosystem, and flutter 📲
 
-* :heartbeat: I love developing web solutions and taking on new challenges
+* :heartbeat: I love developing web and mobile solutions and taking on new challenges!
 
 * :mailbox: do you want to contact me?   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/junior-garcía)
 
@@ -28,6 +28,8 @@
 Frontend: Nextjs 14 and React (SPA)
 
 Backend: Nodejs with Express (API REST)
+
+Mobile: Flutter
 
 Database: MySQL, PostgreSQL, MongoDB
 
