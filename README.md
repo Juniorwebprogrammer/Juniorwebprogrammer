@@ -17,7 +17,7 @@
 
 * :telescope: I am currently working for different clients creating and developing web and mobile solutions :muscle:
 
-* :seedling: I am studying :blue_book: and practice :computer: c# .net ecosystem, and flutter 📲
+* :seedling: I am studying :blue_book: and practice :computer: Java 
 
 * :heartbeat: I love developing web and mobile solutions and taking on new challenges!
 
@@ -26,13 +26,13 @@
 
 ### :hammer_and_wrench: Staff :
 
-Frontend: Nextjs 14 and React (SPA)
+Frontend: Nextjs
 
-Backend: Nodejs with Express (API REST)
+Backend: Nodejs with Express (API REST) || Nestjs || Java spring boot
 
 Mobile: Flutter
 
-Database: MySQL, PostgreSQL, MongoDB
+Database: MySQL, PostgreSQL, MongoDB, SQL, SQLite
 
 ---
 
